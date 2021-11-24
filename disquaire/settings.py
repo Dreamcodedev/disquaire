@@ -84,6 +84,7 @@ DATABASES = {
         'PASSWORD': 'Etdaelv1',
         'HOST': '',
         'PORT': '5432',
+        'ATOMIC_REQUESTS': True,
     }
 }
 
